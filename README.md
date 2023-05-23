@@ -152,7 +152,7 @@ docker pull ghcr.io/n3d1117/chatgpt-telegram-bot:latest
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
 
 ## Disclaimer
-This is a personal project and is not affiliated with OpenAI in any way.
+This is a personal project based on n3d117 work. It was for fun before snapchat integrate chatgpt with "My AI". This is not affiliated with OpenAI in any way.
 
 ## License
 This project is released under the terms of the GPL 2.0 license. For more information, see the [LICENSE](LICENSE) file included in the repository.
