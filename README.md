@@ -98,7 +98,7 @@ Clone the repository and navigate to the project directory:
 
 ```shell
 git clone https://github.com/davidanthony-ai/CHATGPT_Telegram_bot.git
-cd chatgpt-telegram-bot
+cd CHATGPT_Telegram_bot
 ```
 
 #### From Source
