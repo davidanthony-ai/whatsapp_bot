@@ -97,7 +97,7 @@ Check out the [official API reference](https://platform.openai.com/docs/api-refe
 Clone the repository and navigate to the project directory:
 
 ```shell
-git clone https://github.com/n3d1117/CHATGPT_Telegram_bot.git
+git clone https://github.com/davidanthony-ai/CHATGPT_Telegram_bot.git
 cd chatgpt-telegram-bot
 ```
 
@@ -149,6 +149,7 @@ docker pull ghcr.io/n3d1117/chatgpt-telegram-bot:latest
 - [ChatGPT](https://chat.openai.com/chat) from [OpenAI](https://openai.com)
 - [python-telegram-bot](https://python-telegram-bot.org)
 - [jiaaro/pydub](https://github.com/jiaaro/pydub)
+- [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
 
 ## Disclaimer
 This is a personal project and is not affiliated with OpenAI in any way.
