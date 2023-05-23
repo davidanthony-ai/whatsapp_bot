@@ -97,7 +97,7 @@ Check out the [official API reference](https://platform.openai.com/docs/api-refe
 Clone the repository and navigate to the project directory:
 
 ```shell
-git clone https://github.com/n3d1117/chatgpt-telegram-bot.git
+git clone https://github.com/n3d1117/CHATGPT_Telegram_bot.git
 cd chatgpt-telegram-bot
 ```
 
