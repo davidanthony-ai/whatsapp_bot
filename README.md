@@ -97,8 +97,8 @@ Check out the [official API reference](https://platform.openai.com/docs/api-refe
 Clone the repository and navigate to the project directory:
 
 ```shell
-git clone https://github.com/n3d1117/chatgpt-telegram-bot.git
-cd chatgpt-telegram-bot
+git clone https://github.com/davidanthony-ai/CHATGPT_Telegram_bot.git
+cd CHATGPT_Telegram_bot
 ```
 
 #### From Source
@@ -149,9 +149,10 @@ docker pull ghcr.io/n3d1117/chatgpt-telegram-bot:latest
 - [ChatGPT](https://chat.openai.com/chat) from [OpenAI](https://openai.com)
 - [python-telegram-bot](https://python-telegram-bot.org)
 - [jiaaro/pydub](https://github.com/jiaaro/pydub)
+- [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
 
 ## Disclaimer
-This is a personal project and is not affiliated with OpenAI in any way.
+This is a personal project based on n3d117 work. It was for fun before snapchat integrate chatgpt with "My AI". This is not affiliated with OpenAI in any way.
 
 ## License
 This project is released under the terms of the GPL 2.0 license. For more information, see the [LICENSE](LICENSE) file included in the repository.
